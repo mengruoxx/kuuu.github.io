@@ -1,7 +1,7 @@
 # Site settings
 title: KUUU BLOG
 SEOTitle: 堆堆袜的小站
-header-img: img/post-bg-desk.jpg
+header-img: img/index-bg.jpg
 email: mengruoxx@gmail.com
 description: "珍惜当下"
 keyword: "KUUU BLOG, 堆堆袜的小站"
@@ -17,6 +17,9 @@ sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: true
 github_username: mengruoxx
+#weibo_username:     username
+#zhihu_username:     username
+#facebook_username:  username
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -64,7 +67,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1             # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0             # 相同标签数量大于这个数，才会出现在首页
 
 # Friends
 friends: [
