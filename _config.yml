@@ -12,7 +12,7 @@ github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "好好学习天天向上"
-sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,25 +57,20 @@ gitalk:
   enable: true   #是否开启Gitalk评论
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
-  repo: kalicn.github.io    #仓库名称
-  owner: kalicn    #github用户名
-  admin: kalicn
+  repo: kuuu.github.io    #仓库名称
+  owner: mengruoxx    #github用户名
+  admin: mengruoxx
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
   perPage: 15
-
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4383e168cd44bd4eeedaa34229a603c5
-
-ga_track_id: 'UA-171298607-1'
-ga_domain: auto
-
-
-
-
+#ba_track_id: 4383e168cd44bd4eeedaa34229a603c5
+#
+#ga_track_id: 'UA-171298607-1'
+#ga_domain: auto
 
 
 # Featured Tags
@@ -86,20 +81,11 @@ featured-condition-size: 1             # 相同标签数量大于这个数，才
 # Friends
 friends: [
     {
-        title: "七夏浅笑",
-        href: "http://julydate.com/"
-    },{
-        title: "可视化",
-        href: "https://gujiayu7676.github.io/"
-
-    },{
-        title: "Jiyiren.Blog",
-        href: "https://jiyiren.github.io/"
-    },{
-        title: "由我管理的NoSchoolBlog",
-        href: "https://kalicn.github.io/noschoolblog/"
-    },{
-        title: "KaliBlog分站",
-        href: "https://kalicnblog.blogspot.com"
-    }    
+        title: "没有气的汽水",
+        href: "https://www.someget.cn/"
+    },
+    {
+        title: "Andrew",
+        href: "https://andrew9980.github.io/"
+    }
 ]
