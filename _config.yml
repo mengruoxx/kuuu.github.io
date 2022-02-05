@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: mengruoxx@gmail.com
 description: "珍惜当下"
 keyword: "KUUU BLOG, 堆堆袜的小站"
-url: "https://kuuu.github.io"          # your host, for absolute URL
+url: "https://mengruoxx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/mengruoxx/kuuu.github.io.git" # you code repository
+github_repo: "https://github.com/mengruoxx/mengruoxx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -43,10 +43,10 @@ kramdown:
 # 评论系统
 # Gitalk
 gitalk:
-  enable: true   #是否开启Gitalk评论
+  enable: false   #是否开启Gitalk评论
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
-  repo: kuuu.github.io    #仓库名称
+  repo: mengruoxx.github.io    #仓库名称
   owner: mengruoxx    #github用户名
   admin: mengruoxx
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
